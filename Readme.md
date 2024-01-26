@@ -4,6 +4,8 @@
 
 This is a mini browser that opens multiple windows, fixed to the right side of the screen. You can customize your own page and use it as an app. With this app, you can install several other apps less. 
 
+This app is like an assistant who is always waiting there so quietly that you don't even feel his presence.When you are in need, he will respond quickly to your common needs.
+
 And shockingly, the size of this app is just less than 2m, open 10 websites, occupy less than 200m of memory, far less than the memory consumption of other browsers or software.
 
 ![](images/image1.png)
