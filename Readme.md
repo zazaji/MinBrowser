@@ -11,18 +11,6 @@ And shockingly, the size of this app is just less than 2m, open 10 websites, occ
 ![](images/image1.png)
 
 
-![](images/image2.png)
-
-
-![](images/image3.png)
-
-
-![](images/image4.png)
-
-
-![](images/image5.png)
-
-
 ## Usage
 
 1. The config file is ~/.MinBrowser.json, the file is in you home directory. You can modify it with a backup. Copy to your home dirctory.
